@@ -23,7 +23,7 @@ python main.py --input inputs/substring.txt --all --string
 The input file is expected to be in conjunctive normal form (CNF). CNF is a
 "product of sums" or "AND of ORs"
 
-Each line is a series of terms that are OR'd together. Every line AND'd together
+Each line is a series of terms that are OR'd together. Every line is AND'd together
 
 You can negate a term by prefixing it with `~`
 
