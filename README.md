@@ -13,9 +13,9 @@ To get a list of options
 python main.py --help
 ```
 
-Uses the `inputs/substring.txt` regular language, prints all possible outputs, represents states as a binary string
+Uses the `inputs/substring.in` regular language, prints all possible outputs, represents states as a binary string
 ```
-python main.py --input inputs/substring.txt --all --string
+python main.py --input inputs/substring.in --all --string
 ```
 
 ### Input Format
